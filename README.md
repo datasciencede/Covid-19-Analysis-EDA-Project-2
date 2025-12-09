@@ -10,7 +10,7 @@
 
 Click here to view the app
 
-👉 Launch App
+👉 Launch App : http://localhost:8501/
 
 ## 📌 Project Overview
 
