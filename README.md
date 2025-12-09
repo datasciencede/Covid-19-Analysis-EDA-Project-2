@@ -6,9 +6,9 @@
 
 ---
 
-### 🔗 View Streamlit App
+### ▶️ Open Streamlit Dashboard
 
-Click the link below to open the Streamlit dashboard:
+Click here to view the app
 
 👉 Launch App
 
